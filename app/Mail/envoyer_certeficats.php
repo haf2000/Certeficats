@@ -25,7 +25,7 @@ class envoyer_certeficats extends Mailable
      */
     public function build()
     {
-     return $this->from('hh_bouzaouia@esi.dz')->subject('Certeficat')->view('Mails.envoyer_certeficats_text')->with('data',$this->data) ->attach($this->data['path']);
+     return $this->from('hh_bouzaouia@esi.dz')->subject('Certificat')->view('Mails.envoyer_certeficats_text')->with('data',$this->data) ->attach($this->data['path']);
     }
     
 }

@@ -88,7 +88,7 @@
                 </div>
                  
                        <form action="/certeficats" method="post">
-                                   <button type="submit" class="btn btn-primary" style="text-align: center;margin-right: auto;margin-left: auto;width: 400px;font-size: 20px;">Envoyer les certeficats</button>
+                                   <button type="submit" class="btn btn-primary" style="text-align: center;margin-right: auto;margin-left: auto;width: 400px;font-size: 20px;">Envoyer les certificats</button>
                                         {{ method_field('GET') }}
                                  {{ csrf_field() }}  
                             </form> 

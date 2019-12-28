@@ -57,7 +57,7 @@ class Mailing_data extends Controller
         }  
    
        /******************Message pour indiquer l'envoi avec success c'est tout ********************/
-          $sent="Vos certeficats ont bien été envoyées !";      
+          $sent="Vos certificats ont bien été envoyées !";      
        return view('welcome')->with('sent',$sent);
        /****************************************************************************************/
      }
