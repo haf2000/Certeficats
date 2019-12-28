@@ -44,12 +44,7 @@
                         <div class="layout__inner container-details" emb-background-style="">
                           
                                 <div class="column custom-column" style="margin-left: 20px;margin-right: 20px;margin-bottom: 24px;margin-top: 30px;">
-
-                                    <p>For any questions,  don't hesitate to contact us
-                                        at cse@esi.dz.
-                                    </p>
-
-
+Pour plus de questions , n'hésitez pas de nous contacter à : cse@esi.dz.
                                 </div>
                         </div>
                     </div>
